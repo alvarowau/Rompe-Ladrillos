@@ -30,7 +30,7 @@ Este es un juego clásico de "Rompe Ladrillos" desarrollado para Android. El obj
 
 ## Instalación
 
-1.  Clona este repositorio: `git clone https://github.com/theodelrieu?tab=repositories`
+1.  Clona este repositorio: `git clone https://github.com/alvarowau/Rompe-Ladrillos`
 2.  Abre el proyecto en Android Studio.
 3.  Conecta tu dispositivo Android o utiliza un emulador.
 4.  Ejecuta la aplicación.
