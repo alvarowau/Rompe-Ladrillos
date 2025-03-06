@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea5</string>
+    <string name="tus_puntos">Tus Puntos:</string>
+    <string name="exit_game" >Fin</string>
+    <string name="restart_game">empezar</string>
+</resources>
